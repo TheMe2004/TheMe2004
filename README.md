@@ -1,8 +1,8 @@
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMe2004&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehemmeddev2004&show_icons=true&theme=radical)
 
-[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMe2004&layout=compact&theme=radical)](https://github.com/TheMe2004)
+[![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmeddev2004&layout=compact&theme=radical)](https://github.com/mehemmeddev2004)
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
