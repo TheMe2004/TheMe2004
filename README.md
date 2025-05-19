@@ -4,6 +4,11 @@
 
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmeddev2004&layout=compact&theme=radical)](https://github.com/mehemmeddev2004)
 
+![coderRoin GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderRoin&show_icons=true&theme=radical)
+
+[![coderRoin En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=coderRoin&layout=compact&theme=radical)](https://github.com/coderRoin)
+
+
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
