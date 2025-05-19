@@ -4,7 +4,6 @@
 
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmeddev2004&layout=compact&theme=radical)](https://github.com/mehemmeddev2004)
 
-![mehemmeddev2004 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehemmeddev2004&show_icons=true&theme=radical)
 
 
 ## 💻 Tech Stack:
