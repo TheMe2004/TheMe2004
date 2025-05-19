@@ -17,3 +17,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+💫 About Me:
+🌐 Software Developer
+
+Hello! I am a passionate software developer with a commitment to crafting reliable, efficient, and scalable solutions. With a focus on clean code and innovative problem-solving, I thrive in collaborative environments where I can contribute to impactful projects. My expertise spans front-end and back-end technologies, and I am always eager to learn and explore the latest advancements in the tech world. Let's build something great together!
