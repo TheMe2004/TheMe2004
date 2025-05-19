@@ -1,4 +1,4 @@
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMe2004&show_icons=true&theme=radical)
 
