@@ -4,9 +4,8 @@
 
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mehemmeddev2004&layout=compact&theme=radical)](https://github.com/mehemmeddev2004)
 
-![coderRoin GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderRoin&show_icons=true&theme=radical)
+![mehemmeddev2004 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehemmeddev2004&show_icons=true&theme=radical)
 
-[![coderRoin En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=coderRoin&layout=compact&theme=radical)](https://github.com/coderRoin)
 
 
 ## 💻 Tech Stack:
